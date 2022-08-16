@@ -2,6 +2,7 @@
 #define SORT_H
 #include <stdio.h>
 #include <stdlib.h>
+#include "deck.h"
 #define UP 0
 #define DOWN 1
 
