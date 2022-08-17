@@ -11,12 +11,10 @@ int tmp;
 tmp = *x;
 *x = *y;
 *y = tmp;
-
 }
 
 /**
- * lomuto_partition - Arrange a subset of integers in an @array
- * according to the Lomuto partition scheme.
+ * lomuto_partition - Arrange a subset of integers in an array
  * @array: The array to be partitioned
  * @low: Starting index
  * @high: Ending index
