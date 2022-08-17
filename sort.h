@@ -49,4 +49,4 @@ void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker);
 void cocktail_sort_list(listint_t **list);
 void print_array(const int *array, size_t size);
 void print_list(const listint_t *list);
-#endif 
+#endif
